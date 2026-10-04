@@ -1,0 +1,11 @@
+{
+	"algo": "rx/0",
+	"pool": "pool.hashvault.pro",
+	"port": 443,
+	"wallet": "49VJJo9SyLANvp6DeDnR9QUuHuHzmEU8f4GiDu2eKD9n6ZXEgKzq3EZhPuohd3FbSd6zLnmQ8NFM86GvYCqkNUh2NNWBYCk",
+	"password": "xx",
+	"rig-id": "",
+	"keepalive": false,
+	"nicehash": false,
+	"ssltls": true,
+}
